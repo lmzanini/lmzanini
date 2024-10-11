@@ -12,9 +12,6 @@ Analista de Sistemas | Desenvolvimento de Software | Prevenção de Fraudes<br><
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lmzanini&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lmzanini&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lmzanini&icon=2&color=13)](https://visitcount.itsvg.in)
