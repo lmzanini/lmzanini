@@ -1,5 +1,29 @@
 # 💫 Sobre mim:
-Analista de Sistemas | Desenvolvimento de Software | Prevenção de Fraudes<br><br>Desde 2021, quando iniciei o curso de Análise e Desenvolvimento de Sistemas, tenho me aprofundado no campo da tecnologia, que continua a evoluir rapidamente. Em 2022, comecei minha jornada profissional na TCS - Tata Consultancy Services como estagiário, onde ampliei minhas habilidades com cursos em Java, HTML, CSS, SQL e princípios dos serviços AWS.<br><br>Ainda em 2022, fui efetivado como trainee e participei de um projeto inovador de monitoramento de temperatura com IoT, assumindo responsabilidades na construção de APIs e no uso de funções Lambda. Em julho de 2023, fui promovido a Junior e passei a integrar projetos internos voltados para automação e prevenção de fraudes, com foco no Banco Itaú.<br><br>Desde janeiro de 2024, estou envolvido em um projeto de combate a fraudes no Banco Itaú, onde trabalho com .NET e Razor para o desenvolvimento de aplicações web e em console. Esta experiência tem me permitido aplicar e expandir meus conhecimentos em tecnologias modernas para fortalecer a segurança e integridade dos processos bancários.<br><br>Além das minhas atribuições em projetos, mantenho um foco contínuo no desenvolvimento de habilidades em frontend, incluindo Angular, HTML, CSS, JavaScript e React, área pela qual tenho grande interesse. Desde agosto de 2023, também estou dedicando tempo ao aprendizado do inglês, buscando expandir minhas capacidades profissionais e alcançar novos horizontes na carreira.
+Analista de Sistemas | Desenvolvimento de Software | Prevenção de Fraudes<br><br># Olá! Meu nome é Leonardo Mateoti Zanini  
+
+Tenho 2 anos e meio de experiência como desenvolvedor fullstack, trabalhando com as seguintes tecnologias:  
+
+- **Angular**: experiência tanto em versões antigas quanto nas mais recentes, incluindo a nova abordagem standalone, para desenvolvimento de interfaces modernas e eficientes.  
+- **React**: para criação de interfaces dinâmicas e responsivas.  
+- **Node.js**: para construção de backends escaláveis e robustos.  
+- **CSS**, **Sass**, **Bootstrap** e **HTML**: para estilização e estruturação de páginas web.  
+- **TypeScript** e **JavaScript**: para lógica de negócio e interatividade.  
+- **SQL**: para modelagem e consultas em bancos de dados.  
+- **Postman**: para testes e validação de APIs RESTful, com experiência no consumo dessas APIs.  
+- **WordPress**: para personalização e desenvolvimento de sites.  
+- **Figma**: para design e prototipagem de interfaces.  
+- **Git**: para versionamento de código e colaboração em projetos.  
+
+Atualmente, estou ampliando meus conhecimentos em **Java**, com foco no framework **Spring Boot**, e adquirindo experiência em ferramentas da **AWS**, como **CloudWatch**, **Athena**, **Glue** e **S3**, em minha atuação na squad atual.  
+
+Além do conhecimento técnico, destaco minhas habilidades interpessoais:  
+- Boa comunicação, criatividade, flexibilidade e empatia.  
+- Inteligência emocional e pensamento analítico e lógico.  
+- Habilidade para detecção e resolução de problemas.  
+- Forte colaboração e trabalho em equipe, com foco em entender as necessidades do cliente e oferecer soluções da melhor maneira possível.  
+
+Sou formado em **Análise e Desenvolvimento de Sistemas**, trabalho em português e possuo inglês intermediário. Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.
+
 
 
 ## 🌐 Redes Sociais:
