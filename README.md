@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Analista de Sistemas | Desenvolvimento de Software | Prevenção de Fraudes<br><br># Olá! Meu nome é Leonardo Mateoti Zanini  
+Analista de Sistemas | Desenvolvimento de Software | Fullstack<br><br># Olá! Meu nome é Leonardo Mateoti Zanini  
 
 Tenho 2 anos e 10 meses de experiência como desenvolvedor fullstack, trabalhando com as seguintes tecnologias:  
 
