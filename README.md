@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 Analista de Sistemas | Desenvolvimento de Software | Prevenção de Fraudes<br><br># Olá! Meu nome é Leonardo Mateoti Zanini  
 
-Tenho 2 anos e meio de experiência como desenvolvedor fullstack, trabalhando com as seguintes tecnologias:  
+Tenho 2 anos e 10 meses de experiência como desenvolvedor fullstack, trabalhando com as seguintes tecnologias:  
 
 - **Angular**: experiência tanto em versões antigas quanto nas mais recentes, incluindo a nova abordagem standalone, para desenvolvimento de interfaces modernas e eficientes.  
 - **React**: para criação de interfaces dinâmicas e responsivas.  
@@ -14,7 +14,7 @@ Tenho 2 anos e meio de experiência como desenvolvedor fullstack, trabalhando co
 - **Figma**: para design e prototipagem de interfaces.  
 - **Git**: para versionamento de código e colaboração em projetos.  
 
-Atualmente, estou ampliando meus conhecimentos em **Java**, com foco no framework **Spring Boot**, e adquirindo experiência em ferramentas da **AWS**, como **CloudWatch**, **Athena**, **Glue** e **S3**, em minha atuação na squad atual.  
+Atualmente, estou ampliando meus conhecimentos e adquirindo experiência em ferramentas da **AWS**, como **CloudWatch**, **Athena**, **Glue** e **S3**, em minha atuação na squad atual.  
 
 Além do conhecimento técnico, destaco minhas habilidades interpessoais:  
 - Boa comunicação, criatividade, flexibilidade e empatia.  
